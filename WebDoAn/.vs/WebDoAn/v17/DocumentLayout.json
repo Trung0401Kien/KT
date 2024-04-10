@@ -1,0 +1,843 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebSite\\WebDoAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|d:\\website\\webdoan\\webdoan\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:webdoan\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|d:\\website\\webdoan\\webdoan\\views\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:webdoan\\views\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Order\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Views\\Order\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\App_Start\\Startup.Auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\App_Start\\Startup.Auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Controllers\\ShoppingCartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Controllers\\ShoppingCartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Review\\_Review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\Review\\_Review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\ShoppingCart\\CheckOutSuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\ShoppingCart\\CheckOutSuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Order\\Partial_SanPham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Views\\Order\\Partial_SanPham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Account\\_ExternalLoginsListPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\Account\\_ExternalLoginsListPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Order\\View.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Views\\Order\\View.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\News\\Add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Views\\News\\Add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\News\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Views\\News\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\NewsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Controllers\\NewsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\ShoppingCart\\Partial_CheckOut.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\ShoppingCart\\Partial_CheckOut.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Common\\Common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Common\\Common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\StatisticalController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Controllers\\StatisticalController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Statistical\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Views\\Statistical\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\ShoppingCart\\CheckOut.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\ShoppingCart\\CheckOut.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Shared\\_LoginPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\Shared\\_LoginPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\SettingSystemController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Controllers\\SettingSystemController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Account\\Profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\Account\\Profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Controllers\\MenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Controllers\\MenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Products\\Detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\Products\\Detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Menu\\_MenuLeft.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\Menu\\_MenuLeft.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\ProductCategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Controllers\\ProductCategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Category\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Views\\Category\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Category\\Add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Views\\Category\\Add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Category\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Views\\Category\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\ProductCategory\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Views\\ProductCategory\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\ShoppingCart\\Partial_Item_Cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\ShoppingCart\\Partial_Item_Cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\ShoppingCart\\VnpayReturn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\ShoppingCart\\VnpayReturn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Menu\\_MenuArrivals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\Menu\\_MenuArrivals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\App_Start\\BundleConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\App_Start\\BundleConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Controllers\\ArticleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Controllers\\ArticleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\ProductImageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Controllers\\ProductImageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Menu\\_MenuProductCategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Views\\Menu\\_MenuProductCategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Posts\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Views\\Posts\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Account\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A19159F-C700-4351-9803-70CE2AD3FA65}|WebDoAn\\WebDoAn.csproj|solutionrelative:WebDoAn\\Areas\\Admin\\Views\\Account\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:58:17.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:52:18.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Web.config",
+              "RelativeDocumentMoniker": "WebDoAn\\Web.config",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Web.config",
+              "RelativeToolTip": "WebDoAn\\Web.config",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-01-09T16:06:06.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAJQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-13T09:47:06.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebDoAn\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAADwv8YAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-22T13:55:42.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\App_Start\\Startup.Auth.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "WebDoAn\\App_Start\\Startup.Auth.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T05:25:47.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "WebDoAn\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAADwv2oAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T07:26:09.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Review.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Review\\_Review.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\Review\\_Review.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Review\\_Review.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\Review\\_Review.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-23T07:57:08.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-12T14:29:40.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebDoAn\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-09T10:59:43.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckOutSuccess.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\ShoppingCart\\CheckOutSuccess.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\ShoppingCart\\CheckOutSuccess.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\ShoppingCart\\CheckOutSuccess.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\ShoppingCart\\CheckOutSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-23T07:46:54.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Partial_SanPham.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Order\\Partial_SanPham.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Views\\Order\\Partial_SanPham.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Order\\Partial_SanPham.cshtml",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Views\\Order\\Partial_SanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-23T07:24:37.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ExternalLoginsListPartial.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Account\\_ExternalLoginsListPartial.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\Account\\_ExternalLoginsListPartial.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Account\\_ExternalLoginsListPartial.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\Account\\_ExternalLoginsListPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-23T06:47:28.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAqwDsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-22T12:33:57.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Order\\View.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Views\\Order\\View.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Order\\View.cshtml",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Views\\Order\\View.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAACEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-13T09:47:21.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\News\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Views\\News\\Add.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\News\\Add.cshtml",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Views\\News\\Add.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAFAAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-23T07:13:22.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-23T07:13:11.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T07:13:09.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Partial_CheckOut.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\ShoppingCart\\Partial_CheckOut.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\ShoppingCart\\Partial_CheckOut.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\ShoppingCart\\Partial_CheckOut.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\ShoppingCart\\Partial_CheckOut.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-23T07:03:17.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Common.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Common\\Common.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\Common\\Common.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Common\\Common.cs",
+              "RelativeToolTip": "WebDoAn\\Common\\Common.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwB8AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T06:56:44.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StatisticalController.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Controllers\\StatisticalController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T06:39:11.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-23T06:39:16.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CheckOut.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\ShoppingCart\\CheckOut.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\ShoppingCart\\CheckOut.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\ShoppingCart\\CheckOut.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\ShoppingCart\\CheckOut.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-14T09:28:45.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-23T06:47:01.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SettingSystemController.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\SettingSystemController.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Controllers\\SettingSystemController.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\SettingSystemController.cs",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Controllers\\SettingSystemController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T06:39:09.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-22T13:21:09.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAJIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-21T15:28:53.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "WebDoAn\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T06:44:41.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-13T09:34:55.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Products\\Detail.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\Products\\Detail.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Products\\Detail.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\Products\\Detail.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAF4AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-16T06:44:37.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-16T05:56:57.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAADwvxIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-09T10:22:55.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_MenuLeft.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Menu\\_MenuLeft.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\Menu\\_MenuLeft.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Menu\\_MenuLeft.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\Menu\\_MenuLeft.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-16T05:47:53.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowDgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T09:41:48.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductCategoryController.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Controllers\\ProductCategoryController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAiwCAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-09T10:22:54.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-09T09:52:15.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-14T09:43:06.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Views\\Category\\Add.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-14T09:42:03.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-14T09:41:50.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\ProductCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Views\\ProductCategory\\Index.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\ProductCategory\\Index.cshtml",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Views\\ProductCategory\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-09T10:28:38.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Partial_Item_Cart.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\ShoppingCart\\Partial_Item_Cart.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\ShoppingCart\\Partial_Item_Cart.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\ShoppingCart\\Partial_Item_Cart.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\ShoppingCart\\Partial_Item_Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-14T08:13:14.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "VnpayReturn.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\ShoppingCart\\VnpayReturn.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\ShoppingCart\\VnpayReturn.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\ShoppingCart\\VnpayReturn.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\ShoppingCart\\VnpayReturn.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-14T08:59:10.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_MenuArrivals.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Menu\\_MenuArrivals.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\Menu\\_MenuArrivals.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Menu\\_MenuArrivals.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\Menu\\_MenuArrivals.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-12T13:43:31.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "WebDoAn\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-13T11:11:05.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\Controllers\\ArticleController.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "WebDoAn\\Controllers\\ArticleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-13T10:03:05.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductImageController.cs",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-13T09:36:14.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-12T13:56:47.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_MenuProductCategory.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Menu\\_MenuProductCategory.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Views\\Menu\\_MenuProductCategory.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Views\\Menu\\_MenuProductCategory.cshtml",
+              "RelativeToolTip": "WebDoAn\\Views\\Menu\\_MenuProductCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-12T13:57:15.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAEyawAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-09T10:28:27.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAJCawKwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-09T10:03:39.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebDoAn\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\WebSite\\WebDoAn\\WebDoAn\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "WebDoAn\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAALCMwFcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-09T09:53:29.072Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
